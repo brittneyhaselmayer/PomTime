@@ -1,0 +1,24 @@
+.loginForm {
+	font-size: 2rem;
+	background-color: floralwhite;
+	padding: 20px;
+	border: 4px solid;
+	border-color: darksalmon;
+	border-radius: 0.5rem;
+	color: rgb(41, 12, 21);
+}
+.loginForm input {
+	display: inline-block;
+	width: 100%;
+	margin-top: 2px;
+	padding: 6px;
+}
+
+.loginForm button {
+	width: 100%;
+	align-items: center;
+	background-color: darksalmon;
+	padding: 5.2px;
+	font-size: 20px;
+	color: rgb(41, 12, 21);
+}
