@@ -1,0 +1,16 @@
+.timerDiv {
+	border: 3px solid;
+	border-color: sandybrown;
+	text-align: center;
+	background-color: floralwhite;
+	margin-top: 20px;
+}
+
+.timerDiv button {
+	width: 100%;
+	align-items: center;
+	background-color: darksalmon;
+	padding: 5px;
+	font-size: 20px;
+	color: rgb(41, 12, 21);
+}
